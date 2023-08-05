@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity() {
     }
     fun showMessage(message:String){
         Log.i(TAG, message)
-        Toast.makeText(this, message, Toast.LENGTH_LONG).show()
+        Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
         val constraint:ConstraintLayout?=findViewById(R.id.mainConstraint)
         if (constraint!=null){
             Snackbar.make(constraint, message,Snackbar.LENGTH_SHORT).show()
