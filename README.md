@@ -6,5 +6,14 @@ Snackbar message. All methods of Activity life cycle should be printed in Logcat
 
 # Output:
 Log Message in Logcat:
+
 ![image](https://github.com/mehabhatt/MAD_Practical-2_21012011049/assets/98047777/cb5c09f5-fe54-4da2-be1d-cdc745d8b583)
+
+Snackbar Message:
+
+![image](https://github.com/mehabhatt/MAD_Practical-2_21012011049/assets/98047777/6e270f6f-422e-4ebf-a78d-c18983981d0d)
+
+Toast Message:
+
+![image](https://github.com/mehabhatt/MAD_Practical-2_21012011049/assets/98047777/71f6e9e1-b24b-4d35-b828-c7cb6272d4dd)
 
